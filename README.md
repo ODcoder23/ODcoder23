@@ -1,7 +1,7 @@
 # Assalomu alaykum, men Abdurahmon 👋
 
 **Full-Stack Developer**, O'zbekiston. Bizneslar uchun Telegram botlar, Mini App'lar,
-boshqaruv tizimlari (PMS, CRM, booking) va tez ishlaydigan veb-saytlar yarataman.
+boshqaruv tizimlari (PMS, CRM, ) va tez ishlaydigan veb-saytlar yarataman.
 
 ### 🛠 Texnologiyalar
 
