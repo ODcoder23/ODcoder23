@@ -16,7 +16,7 @@ boshqaruv tizimlari (PMS, CRM, booking) va tez ishlaydigan veb-saytlar yarataman
 | [hotel-pms-channel-manager](https://github.com/ODcoder23/hotel-pms-channel-manager) | Mehmonxona boshqaruv tizimi + Channel Manager: bron, to'lov, audit, 6 ta OTA konnektori | TypeScript, Express, Prisma, PostgreSQL, React |
 | [portfolio-ai-chat](https://github.com/ODcoder23/portfolio-ai-chat) | Portfolio sayt + AI chatbot, bir nechta LLM provayder, admin panel | Node.js, Express, SQLite |
 | [fliptravel-landing](https://github.com/ODcoder23/fliptravel-landing) | Sayyohlik agentligi uchun landing: [fliptravel.uz](https://fliptravel.uz) | HTML, CSS, JS, SEO |
-| [usad-studio](https://github.com/ODcoder23/usad-studio) | Studio uchun mobile-first landing: [usadv2.uz](https://usad.uz) | HTML, CSS |
+| [usadv2.uz](https://github.com/ODcoder23/usadv2.uz) | USAD studio landing + lead capture: [usad.uz](https://usad.uz) | HTML, CSS, Node.js, Docker |
 
 ### 🌐 Vizitka-saytlar
 
