@@ -13,6 +13,7 @@ boshqaruv tizimlari (PMS, CRM, ) va tez ishlaydigan veb-saytlar yarataman.
 
 | Loyiha | Tavsif | Stek |
 |---|---|---|
+| [ai-term](https://github.com/ODcoder23/ai-term)<br>🚧 *davom etmoqda* | AI agentlar (Claude Code, Codex, Antigravity) yozgan kodni izolyatsiyalangan git worktree'larda ishlatib, faqat tekshiruvdan o'tgan o'zgarishni merge'ga chiqaradigan lokal orchestrator | TypeScript, Node.js, SQLite, Turborepo |
 | [hotel-pms-channel-manager](https://github.com/ODcoder23/hotel-pms-channel-manager) | Mehmonxona boshqaruv tizimi + Channel Manager: bron, to'lov, audit, 6 ta OTA konnektori | TypeScript, Express, Prisma, PostgreSQL, React |
 | [portfolio-ai-chat](https://github.com/ODcoder23/portfolio-ai-chat) | Portfolio sayt + AI chatbot, bir nechta LLM provayder, admin panel | Node.js, Express, SQLite |
 | [fliptravel-landing](https://github.com/ODcoder23/fliptravel-landing) | Sayyohlik agentligi uchun landing: [fliptravel.uz](https://fliptravel.uz) | HTML, CSS, JS, SEO |
