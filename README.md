@@ -20,9 +20,7 @@ boshqaruv tizimlari (PMS, CRM, ) va tez ishlaydigan veb-saytlar yarataman.
 
 ### 🌐 Vizitka-saytlar
 
-- [odcoder-vizitka](https://odcoder23.github.io/odcoder-vizitka/): xizmatlar sayti, admin panel bilan
-- [developer-card](https://odcoder23.github.io/developer-card/): shaxsiy vizitka karta
-- [abdurahmon-vizitka](https://odcoder23.github.io/abdurahmon-vizitka/): vizitka-sayt shabloni
+
 - [bobur-naves-vizitka](https://odcoder23.github.io/bobur-naves-vizitka/): mijoz uchun, 6 ta dizayn varianti
 
 ---
