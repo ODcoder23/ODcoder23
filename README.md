@@ -22,7 +22,7 @@ boshqaruv tizimlari (PMS, CRM, ) va tez ishlaydigan veb-saytlar yarataman.
 ### 🌐 Vizitka-saytlar
 
 
-- [bobur-naves-vizitka](https://odcoder23.github.io/bobur-naves-vizitka/): mijoz uchun, 6 ta dizayn varianti
+- [bobur-naves-vizitka](https://odcoder23.github.io/bobur-naves-vizitka/): mijoz uchun, [navesbobur.uz](https://navesbobur.uz) · [navesbobur.uz/qabul](https://navesbobur.uz/qabul)
 
 ---
 
